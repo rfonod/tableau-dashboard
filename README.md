@@ -1,6 +1,6 @@
 # Tableau Dashboard: European Innovation vs. Academic Trends
 
-This Tableau dashboard aims at visualizing the historical trend change of the summary innovation index relative to the changes in selected academic research disciplines changes of some European countries.
+This Tableau dashboard aims at visualizing the historical change of the Summary Innovation Index (SII) relative to changes in selected academic research disciplines  of some European countries.
 
 **Deployment URL:** https://public.tableau.com/app/profile/robert.fonod/viz/Dashboard_16238602964290/Dashboard1
 
